@@ -1,3 +1,26 @@
+# React Tooltip
+
+This React Tooltip is simple react app which shows the tooltip functionality
+
+## Features
+
+- Simple UI
+- Tooltip Functionality
+
+## Getting Started
+
+Follow these steps to get started with the React Tooltip code:
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+    git clone https://github.com/dhanashrirandive06/react-tip.git
+2. **Navigate to the Project Directory**: Move to the project directory:
+    cd react-tooltip
+3. **Run the Code By Following Command** :
+    - npm install
+    - npm start
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
