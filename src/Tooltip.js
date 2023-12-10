@@ -16,8 +16,8 @@ const Tooltip = ({ position, children }) => {
     <div className="tooltip-container">
       <div
         className="tooltip-trigger"
-        onMouseEnter={showTooltipHandler}
-        onMouseLeave={hideTooltipHandler}
+        onMouseOver={showTooltipHandler}
+        onMouseOut={hideTooltipHandler}
       >
         {children}
       </div>
