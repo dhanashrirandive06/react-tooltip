@@ -1,7 +1,10 @@
+//Imports
 import Tooltip from "./Tooltip";
 
 function App() {
   return (
+
+    //Main Containers
     <div className="main">
       <h1 className="heading">React Tooltip</h1>
       <div className="main_position">
@@ -24,4 +27,5 @@ function App() {
   );
 }
 
+//Exports
 export default App;

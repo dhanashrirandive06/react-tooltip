@@ -1,3 +1,4 @@
+/* Css for Styling*/
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: rgba(251, 237, 237, 0.763);
@@ -144,6 +145,8 @@ body {
   border-color: #333 transparent transparent transparent;
 }
 
+
+/* Media query for Responsiveness */
 @media (max-width: 768px) {
   .main_position {
     width: 100%;
